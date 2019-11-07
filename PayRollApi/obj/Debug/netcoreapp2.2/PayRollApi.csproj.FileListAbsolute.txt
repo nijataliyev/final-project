@@ -1,0 +1,14 @@
+C:\Users\Nicat\source\repos\PayRollApi\bin\Debug\netcoreapp2.2\PayRollApi.deps.json
+C:\Users\Nicat\source\repos\PayRollApi\bin\Debug\netcoreapp2.2\PayRollApi.runtimeconfig.json
+C:\Users\Nicat\source\repos\PayRollApi\bin\Debug\netcoreapp2.2\PayRollApi.runtimeconfig.dev.json
+C:\Users\Nicat\source\repos\PayRollApi\bin\Debug\netcoreapp2.2\PayRollApi.dll
+C:\Users\Nicat\source\repos\PayRollApi\obj\Debug\netcoreapp2.2\PayRollApi.csproj.CoreCompileInputs.cache
+C:\Users\Nicat\source\repos\PayRollApi\obj\Debug\netcoreapp2.2\PayRollApi.RazorAssemblyInfo.cache
+C:\Users\Nicat\source\repos\PayRollApi\obj\Debug\netcoreapp2.2\PayRollApi.RazorAssemblyInfo.cs
+C:\Users\Nicat\source\repos\PayRollApi\obj\Debug\netcoreapp2.2\PayRollApi.AssemblyInfoInputs.cache
+C:\Users\Nicat\source\repos\PayRollApi\obj\Debug\netcoreapp2.2\PayRollApi.AssemblyInfo.cs
+C:\Users\Nicat\source\repos\PayRollApi\obj\Debug\netcoreapp2.2\PayRollApi.RazorTargetAssemblyInfo.cache
+C:\Users\Nicat\source\repos\PayRollApi\bin\Debug\netcoreapp2.2\PayRollApi.pdb
+C:\Users\Nicat\source\repos\PayRollApi\obj\Debug\netcoreapp2.2\PayRollApi.dll
+C:\Users\Nicat\source\repos\PayRollApi\obj\Debug\netcoreapp2.2\PayRollApi.pdb
+C:\Users\Nicat\source\repos\PayRollApi\obj\Debug\netcoreapp2.2\PayRollApi.csprojAssemblyReference.cache
